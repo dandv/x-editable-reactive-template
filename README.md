@@ -1,12 +1,12 @@
 x-editable-reactive-template
 ===========================
 *Reactive*, template wrapper around x-editable.
-This package assumes you've loaded x-editable yourself one option is [natestrauser:x-editable-bootstrap](https://github.com/nate-strauser/meteor-x-editable-bootstrap). But, as long as it's loaded before an x-editable template is attempted to be rendered you should be fine.
+This package assumes you've loaded x-editable yourself one option is [1024kilobyte:x-editable-bootstrap](https://github.com/1024kilobyte/meteor-x-editable-bootstrap). But, as long as it's loaded before an x-editable template is attempted to be rendered you should be fine.
 
 # Install
 
 ```
-meteor add workman:x-editable-reactive-template
+meteor add 1024kilobyte:x-editable-reactive-template
 ```
 
 # Usage
