@@ -13,7 +13,7 @@ Package.on_use(function (api) {
     ], 'client');
 
     api.use([
-        '1024kilobyte:x-editable-bootstrap'
+        '1024kilobyte:x-editable-bootstrap@1.5.2_1'
     ], 'client', { weak: true });
 
     api.addFiles([
